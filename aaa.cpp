@@ -15,6 +15,8 @@ void sheep(void){
 
 int main(){
   cout << "hello, world";
+  syu();
+  imyantsss();
   sheep();
   return 0;
 }
