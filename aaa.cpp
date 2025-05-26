@@ -2,7 +2,7 @@
 using namespace std;
 
 void imyantsss(void) {
-	cout << "yantssssssssss" << endl;
+	cout << "yantsssssssss" << endl;
 };
 
 int main(){
