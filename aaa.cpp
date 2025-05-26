@@ -9,6 +9,10 @@ void imyantsss(void) {
 	cout << "yantsssssssss" << endl;
 };
 
+void sheep(void){
+	cout<< "sheep" << endl;
+}
+
 int main(){
 	cout << "hello, world";
   syu();
