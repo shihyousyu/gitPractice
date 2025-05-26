@@ -2,19 +2,19 @@
 using namespace std;
 
 void syu(){
-	cout << "hello, syu.\n";
+  cout << "hello, syu.\n";
 }
 
 void imyantsss(void) {
-	cout << "yantsssssssss" << endl;
+  cout << "yantsssssssss" << endl;
 };
 
-void sheep(){
-	cout << "sheep" << endl;
+void sheep(void){
+  cout<< "sheep" << endl;
 }
 
 int main(){
-	cout << "hello, world";
-	sheep();
-	return 0;
+  cout << "hello, world";
+  sheep();
+  return 0;
 }
