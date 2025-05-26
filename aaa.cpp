@@ -13,6 +13,13 @@ void sheep(void){
   cout<< "sheep" << endl;
 }
 
+<<<<<<< Updated upstream
+=======
+void imyantsss(void) {
+	cout << "yantsssssss" << endl;
+};
+
+>>>>>>> Stashed changes
 int main(){
   cout << "hello, world";
   syu();
